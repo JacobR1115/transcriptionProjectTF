@@ -6,6 +6,7 @@ out/
 errored.tfstate
 exampletf.iml
 terraform.tfstate
+.terraform
 
 ### Eclipse ###
 .apt_generated
